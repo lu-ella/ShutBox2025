@@ -4,8 +4,8 @@ import java.util.Random;
 
 /**
  * Class to represent a single Die
- * 
  * @author L. Mailloux
+ * @version 1.0
  */
 
 public class Die {
